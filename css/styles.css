@@ -157,7 +157,7 @@ padding: 2% 1%;
 margin-bottom: 2%;
 }
 
-]@media (max-width:1028px) {
+@media (max-width:1028px) {
   #title{
     text-align: center;
   }
